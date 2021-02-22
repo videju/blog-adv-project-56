@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+.picture {
+    width: 250px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+
+}
+
+#welcome {
+    background: linear-gradient(#166CE1 0%,#6ADF16 100%);
+    top: 0;
+    bottom: 0;
+    left: 0;
+right:0;
+    position:absolute;
+    height:600px;
+    width:100%;
+    padding-top:400px;
+    
+    
+}
+.line{
+    height: 6px;
+    width:70px;
+    background-color: teal;
+    margin:8px auto;
+    
+}
+#bio{
+    padding:50px;
+    text-align:center;
+    max-width:550px;
+    font-size:25px;
+    padding-top:200px;
+    padding-left:650px;
+    
+    
+}
