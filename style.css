@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+.imagesection{
+    width: 250px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+margin-left: 800px
+}
+
+
+}
+.line{
+    height: 6px;
+    width:70px;
+    background-color: teal;
+    margin:8px auto;
+    
+}
+
